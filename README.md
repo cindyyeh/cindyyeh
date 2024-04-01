@@ -1,6 +1,6 @@
 ### Hi! <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> 
 
-My name is Chiann-Ling Cindy Yeh and I am a Senior Scientist at GigaGen, Inc. I previously worked at Ultima Genomics and received my training (PhD in Genome Sciences) at the University of Washington in the lab of Maitreya Dunham.
+My name is Cindy Yeh and I am a Senior Scientist at GigaGen, Inc. I previously worked at Ultima Genomics and received my training (PhD in Genome Sciences) at the University of Washington in the lab of Maitreya Dunham.
 
 <!--
 **cindyyeh/cindyyeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
