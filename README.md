@@ -4,10 +4,9 @@ My name is Cindy Yeh and I am a computational biologist at GigaGen, Inc.
 
 - 😄 **Pronouns**: she/her
 - 🦂 **Background**: I grew up in New Mexico. 
-- 🌲 **Training**: As an undergraduate at NMSU, I studied muscle degeneration and transdifferentiation in the weakly electric fish _Sternopygus macrurus_. I then spent an amazing 6 years in Seattle obtaining my PhD in Genome Sciences at the University of Washington where I studied natural allelic variation in the budding yeast _Saccharomyces cerevisiae_.
-- 🧬 **Profession**: I previously worked at Ultima Genomics as a scientist where I developed assays and analysis pipelines for Ultima's emerging iteration of short-read sequencers. This was a hybrid wet/dry lab role, but I shifted to a fully computational role when I started my position at GigaGen. I sometimes miss wet lab but there's so much to learn in computational biology!
-- 🔭 **Interests**: I love learning about yeast genomics, evolution, and neat bioinformatics tricks
-- 🌱 **What I'm learning now**: I’m currently learning about LLMs and how to create Shiny apps. Hopefully I can make my toy app available on my repo here!
+- 🌲 **Training**: As an undergraduate at NMSU, I studied muscle degeneration and transdifferentiation in the weakly electric fish _Sternopygus macrurus_ in the lab of Dr. Graciela Unguez. I then moved to Seattle to pursue my PhD in Genome Sciences at the University of Washington in the lab of Dr. Maitreya Dunham where I studied natural allelic variation in the budding yeast _Saccharomyces cerevisiae_.
+- 🧬 **Profession**: I previously worked at Ultima Genomics as a scientist where I developed assays and analysis pipelines for Ultima's emerging iteration of short-read sequencers. This was a hybrid wet/dry lab role, but I shifted to a fully computational role when I started my position at GigaGen. As a bioinformatician, I help analyze biological datasets and develop new tools for our polyclonal antibody drug discovery platform.
+- 🔭 **Interests**: Outside the lab, I love working on jigsaw puzzles, hiking/swimming, playing team sports, and (unfortunately, I know) playing LoL.
 - 👯 **Fun fact**: I worked alongside the godfather of tie dye, Paul Kenney. He's a clever chemist!
 
 
